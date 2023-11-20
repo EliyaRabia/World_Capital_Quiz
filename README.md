@@ -2,8 +2,7 @@
 A website that examines capital knowledge.
 You will test yourself in the capital city test.
 
-
-
+<img width="500" alt="Screenshot 2023-11-20 184027" src="https://github.com/EliyaRabia/World_Capital_Quiz/assets/87569799/9899375a-67da-4bb2-bd79-f1e24574e65d">
 
 
 # Guidelines:
@@ -21,7 +20,8 @@ the user will lose and a corresponding message will be displayed and there will 
 - Grouping all the files above into one folder and opening it in vscode.
 - open index.js in vscode and change the password in the client to your password from pgadmin download.
 - open the terminal and write the following orders:
-- npm i
+- cd space and drag the folder that you made and enter.
+- npm i 
 - npm i pg
 - nodemon index.js
   after that open your Chrome write in the URL: localhost:3000
