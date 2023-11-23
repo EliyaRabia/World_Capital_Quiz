@@ -39,5 +39,5 @@ the user will lose and a corresponding message will be displayed and there will 
 - npm i 
 - npm i pg
 - nodemon index.js
-  after that open your Chrome write in the URL: localhost:3000
+  after that open your Chrome write in the URL: localhost:3000 <br/>
   enjoy:)
