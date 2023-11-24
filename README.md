@@ -18,7 +18,7 @@ the user will lose and a corresponding message will be displayed and there will 
 - Continue clicking Next until you reach this screen. Your superuser username is postgres and you need to set a password.
   Make sure you write this password down. We will need this later to access our database.
 - Grouping all the files above into one folder.
-- index.js in vscode and change the password in the client to your password from pgAdmin download.
+- open index.js in vscode and change the password in the client to your password from pgAdmin download.
 
 # DataBase:
 - open paAdmin click on "world" then click on "Query Tool".
